@@ -10,7 +10,7 @@
      * 
      * **/
 
-    function centuryYear($year){
+    function CenturyYear($year){
 
         if(is_int($year)){
 
